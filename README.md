@@ -5,7 +5,7 @@ pokedex_api
 * Component List
 - App
 - Info
-- Input
+- Input   
 - Main
 
 * CSS 
